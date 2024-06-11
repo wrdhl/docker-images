@@ -6,7 +6,7 @@ Oracle commercial products and [Oracle sponsored open source projects](https://o
 
 ## Container Images on GitHub
 
-These  images will require you to download any required Oracle commercial
+These images will require you to download any required Oracle commercial
 software before installation. If you want commercial software downloaded for you,
  view [Pre-Built Images with Commercial Software](#pre-built-images-with-commercial-software).
 
